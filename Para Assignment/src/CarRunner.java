@@ -16,6 +16,7 @@ public class CarRunner {
 
         // A) список автомобилей заданной марки;
         MakeList.getMakeList(cars, "Pontiac");
+        MakeList.getMakeList(cars, "Honda");
         
     }
 
