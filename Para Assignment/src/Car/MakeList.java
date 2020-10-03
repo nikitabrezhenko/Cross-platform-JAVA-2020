@@ -1,3 +1,5 @@
+package Car;
+
 import java.util.ArrayList;
 
 public class MakeList {
@@ -10,7 +12,7 @@ public class MakeList {
                 cnt++;
             }
             if (cnt == 0){
-                throw new IllegalArgumentException("There are no matching makes for '" + Make + "'. Please input another make.");
+                System.out.println("There are no matching makes for '" + Make + "'. Please input another make.");
             }
             System.out.println("Results found: " +  cnt);
     }

@@ -1,3 +1,4 @@
+package Car;
 
 public class Car {
 
@@ -50,7 +51,7 @@ public class Car {
     }
 
     public String getInfo() {
-        return "Car{" +
+        return "Car.Car{" +
                 "ID = " + id +
                 ", MAKE = " + make +
                 ", MODEL = " + model +

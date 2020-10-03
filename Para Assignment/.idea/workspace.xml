@@ -34,7 +34,7 @@
   </component>
   <component name="RunManager">
     <configuration name="CarRunner" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarRunner" />
+      <option name="MAIN_CLASS_NAME" value="Car.CarRunner" />
       <module name="Para Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
